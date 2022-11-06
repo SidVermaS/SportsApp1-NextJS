@@ -12,5 +12,10 @@ a {
 }
 
 * {
-  box-sizing: border-box;
+  --color-blue: #2699fb;
+  --color-blue0: #f1f9ff;
+  --color-blue1: #abd8fe;
+  --color-blue2: #e2f0fa;
+  --color-white: #fff;
+  --color-black: #000;
 }
